@@ -1,0 +1,64 @@
+<component name="ArtifactManager">
+  <artifact name="JPA_TH_BT5:jar">
+    <output-path>$PROJECT_DIR$/../../Socket/Practice_Socket/Client_JPA/Client_JPA_BT5/lib</output-path>
+    <root id="root">
+      <element id="archive" name="JPA_TH_BT5.jar">
+        <element id="module-output" name="JPA_TH_BT5" />
+      </element>
+      <element id="library" level="project" name="Maven: org.jboss.byteman:byteman-install:4.0.20" />
+      <element id="library" level="project" name="Maven: org.wildfly.security:wildfly-elytron:1.1.0.Final" />
+      <element id="library" level="project" name="Maven: javax.money:money-api:1.0.1" />
+      <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.30" />
+      <element id="library" level="project" name="Maven: org.jboss.remoting:jboss-remoting:5.0.0.Final" />
+      <element id="library" level="project" name="Maven: org.hibernate.orm:hibernate-core:6.0.2.Final" />
+      <element id="library" level="project" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:3.0.1" />
+      <element id="library" level="project" name="Maven: org.glassfish.jaxb:jaxb-core:3.0.2" />
+      <element id="library" level="project" name="Maven: org.jboss.narayana.jta:narayana-jta:7.0.0.Final" />
+      <element id="library" level="project" name="Maven: org.wildfly.transaction:wildfly-transaction-client-jakarta:2.0.0.Final" />
+      <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy:1.12.9" />
+      <element id="library" level="project" name="Maven: org.assertj:assertj-core:3.22.0" />
+      <element id="library" level="project" name="Maven: org.jboss:jboss-transaction-spi:8.0.0.Final" />
+      <element id="library" level="project" name="Maven: org.glassfish.jaxb:jaxb-runtime:3.0.2" />
+      <element id="library" level="project" name="Maven: com.microsoft.sqlserver:mssql-jdbc:12.3.0.jre17-preview" />
+      <element id="library" level="project" name="Maven: com.sun.istack:istack-commons-runtime:4.0.1" />
+      <element id="library" level="project" name="Maven: org.apiguardian:apiguardian-api:1.1.2" />
+      <element id="library" level="project" name="Maven: org.mockito:mockito-inline:5.2.0" />
+      <element id="library" level="project" name="Maven: jakarta.persistence:jakarta.persistence-api:3.0.0" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-params:5.9.2" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.17.1" />
+      <element id="library" level="project" name="Maven: org.javamoney:moneta:1.1" />
+      <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.4.3.Final" />
+      <element id="library" level="project" name="Maven: io.smallrye:jandex:3.1.2" />
+      <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.2" />
+      <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+      <element id="library" level="project" name="Maven: org.antlr:antlr4-runtime:4.10" />
+      <element id="library" level="project" name="Maven: org.wildfly:wildfly-naming-client:1.0.4.Final" />
+      <element id="library" level="project" name="Maven: org.jboss.byteman:byteman-bmunit:4.0.20" />
+      <element id="library" level="project" name="Maven: org.hibernate.common:hibernate-commons-annotations:6.0.1.Final" />
+      <element id="library" level="project" name="Maven: org.jboss.marshalling:jboss-marshalling:2.0.0.Final" />
+      <element id="library" level="project" name="Maven: org.jboss.marshalling:jboss-marshalling-river:2.0.0.Final" />
+      <element id="library" level="project" name="Maven: org.wildfly.client:wildfly-client-config:1.0.0.Final" />
+      <element id="library" level="project" name="Maven: jakarta.annotation:jakarta.annotation-api:2.0.0" />
+      <element id="library" level="project" name="Maven: com.experlog:xapool:1.5.0" />
+      <element id="library" level="project" name="Maven: org.jboss.xnio:xnio-api:3.5.1.Final" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.17.1" />
+      <element id="library" level="project" name="Maven: junit:junit:4.13.2" />
+      <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-all:1.3" />
+      <element id="library" level="project" name="Maven: com.sun.activation:jakarta.activation:2.0.1" />
+      <element id="library" level="project" name="Maven: org.hibernate.orm:hibernate-testing:6.4.4.Final" />
+      <element id="library" level="project" name="Maven: jakarta.transaction:jakarta.transaction-api:2.0.0" />
+      <element id="library" level="project" name="Maven: jakarta.resource:jakarta.resource-api:2.0.0" />
+      <element id="library" level="project" name="Maven: org.jboss.byteman:byteman:4.0.20" />
+      <element id="library" level="project" name="Maven: org.objenesis:objenesis:3.3" />
+      <element id="library" level="project" name="Maven: com.fasterxml:classmate:1.5.1" />
+      <element id="library" level="project" name="Maven: org.glassfish.jaxb:txw2:3.0.2" />
+      <element id="library" level="project" name="Maven: org.jboss:jandex:2.4.2.Final" />
+      <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy-agent:1.14.1" />
+      <element id="library" level="project" name="Maven: org.mockito:mockito-core:5.2.0" />
+      <element id="library" level="project" name="Maven: org.wildfly.common:wildfly-common:1.2.0.Final" />
+      <element id="library" level="project" name="Maven: org.hibernate.orm:hibernate-community-dialects:6.4.4.Final" />
+      <element id="library" level="project" name="Maven: org.jboss.byteman:byteman-submit:4.0.20" />
+      <element id="library" level="project" name="Maven: jakarta.inject:jakarta.inject-api:2.0.0" />
+    </root>
+  </artifact>
+</component>
